@@ -57,7 +57,7 @@
 
 ## Jaminan Kualitas
 
-Belum ada
+- Suarjan
 
 ## Kesenian [BlankOn Uluwatu](https://github.com/blankon/blankon-uluwatu-kesenian)
 
